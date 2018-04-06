@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: w3ibm.mybluemix.net
+  name: amq2c-sharedservices
+  host: amq2c-sharedservices
+  disk_quota: 256M
